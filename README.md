@@ -13,8 +13,8 @@
 + By developing an intuitive and user-friendly sales dashboard, we aim to enhance sales visibility, facilitate performance tracking, and enable proactive decision-making for sales teams.
 
 + This project will empower hospitality organizations to stay ahead of the competition, optimize revenue, and elevate guest satisfaction by harnessing the power of data analytics and actionable insights.
-+ Mockup dashboard provided by the client
-  ![image](Images/Data_Modelling.PNG)
+
+
 ## Project Flow Steps 
 
 * <p><a href="#link1">Business Requirement Document & Data Gathering</a></p>
@@ -28,8 +28,10 @@
 # <h2 id="link1">Business Requirement Document and Data Gathering</h2>
 <br>
 
-we are utilizing Excel files provided by our client, the hotel revenue manager, as our primary data source. These Excel files contain valuable information related to hotel revenue, bookings, and other relevant metrics.
++ we are utilizing Excel files provided by our client, the hotel revenue manager, as our primary data source. These Excel files contain valuable information related to hotel revenue, bookings, and other relevant metrics.
++ Mockup Dashboard
 
+  ![image](Dataset/mockup_Dashboard.png)
 # <h2 id="link2">Problem Statment</h2>
 <br>
 
@@ -61,7 +63,7 @@ Our data model revolves around a central fact table that represents the primary 
 
 Encircling the fact table, we have multiple dimension tables that capture different aspects of the hospitality data. These dimension tables include entities such as guests, rooms, dates, hotel locations, and amenities. Each dimension table comprises descriptive attributes that provide contextual information and further insights into the corresponding aspect of the hospitality operations..
 
-![image](Images/Data_Modelling.PNG)
+![image](Dataset/Data_Modelling.PNG)
 
 
 # <h2 id="link6">DAX</h2>
@@ -108,7 +110,7 @@ The sales dashboard can offer a visually appealing and user-friendly experience.
 
 
 
-![image](Images/Hardware_sales_insights.PNG)
+![image](Dataset/Hospitality_Revenue_insights.PNG)
 <br>
 
 ## Some Important insights from the Dashboard
